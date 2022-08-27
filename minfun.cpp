@@ -20,4 +20,5 @@ int main(int argc, char const *argv[])
     minfun(a, b, c);
     cout << endl;
     return 0;
+    
 }
